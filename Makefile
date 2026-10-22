@@ -1,2 +1,2 @@
 lint:
-	echo "Linting passed successfully!"
+	node --check src/app.js
